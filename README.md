@@ -1,6 +1,4 @@
-## Hi there 👋
 
-# 💫 About Me:
 💻 - Full-stack sensei in progress.<br>🧙 - 360º Graphic Designer.<br>🕹️ - Gamer & cinephile.<br>📣 - I’m the droid you’re looking for.<br><br>
 
 
