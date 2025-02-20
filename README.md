@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 <p align="center">
-  <img src="[https://tu-enlace.com/imagen.png](https://postimg.cc/14sS9CVQ)](https://postimg.cc/14sS9CVQ)" alt="Mi Cabecera" width="800px">
+  <img src="https://postimg.cc/14sS9CVQ" alt="Mi Cabecera" width="800px">
 </p>
 
 ## 🌐 Socials:
