@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mango
 =============================================================================================================================
-
-Full Stack Developer with a strong background in graphic design and digital interface creation. Currently transitioning into web development, I combine technical skills in HTML, CSS, JavaScript and React with a solid understanding of UI/UX design principles. My focus is on building functional, intuitive, and visually appealing web applications, leveraging over 8 years of experience in creative projects. I am prepared to develop end-to-end solutions, from backend to frontend, while adapting to the specific needs of each project.
+<img src="https://postimg.cc/14sS9CVQ"></image>
 
 
 ## 🌐 Socials:
