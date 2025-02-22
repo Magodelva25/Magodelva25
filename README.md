@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![Behance](https://i.postimg.cc/XJhGZLRX/SOCIALS2.jpg)](https://behance.net/https://www.behance.net/mangodev_1) [![LinkedIn](https://i.postimg.cc/sxQWKqYp/SOCIALS.jpg)](https://linkedin.com/in/https://www.linkedin.com/in/mangodev/)]
+[![Behance](https://i.postimg.cc/XJhGZLRX/SOCIALS2.jpg)](https://behance.net/https://www.behance.net/mangodev_1)] [![LinkedIn](https://i.postimg.cc/sxQWKqYp/SOCIALS.jpg)](https://linkedin.com/in/https://www.linkedin.com/in/mangodev/)]
 
 # 💻 Tech Stack:
 ![stack-black.jpg](https://i.postimg.cc/NFYDng01/stack-black.jpg)
