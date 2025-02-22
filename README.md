@@ -1,4 +1,4 @@
-[![Github-header.jpg](https://i.postimg.cc/ZYy5xXTC/Github-header.jpg)](https://i.postimg.cc/Kz9Vtkf1/Github-header.jpg)
+[![Github-header.jpg](https://i.postimg.cc/Kz9Vtkf1/Github-header.jpg)](https://i.postimg.cc/Kz9Vtkf1/Github-header.jpg)
 
 
 ## 🌐 Socials:
