@@ -11,7 +11,7 @@
 [![stack.jpg](https://i.postimg.cc/L6p3462f/stack.jpg)](https://i.postimg.cc/L6p3462f/stack.jpg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Magodelva25&theme=ligth&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Magodelva25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Magodelva25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Magodelva25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
