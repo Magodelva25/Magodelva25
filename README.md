@@ -4,7 +4,7 @@
 ![Github-header-black.jpg](https://i.postimg.cc/cLjKHXwj/Github-header-black.jpg)
 
 # 💻 Tech Stack:
-![stack-black.jpg](https://i.postimg.cc/fThNLP4X/stack-black.jpg))
+![stack-black.jpg](https://i.postimg.cc/fThNLP4X/stack-black.jpg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Magodelva25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
