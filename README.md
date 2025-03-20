@@ -1,7 +1,7 @@
 
 
 
-![Github-header-black.jpg](https://i.postimg.cc/cLjKHXwj/Github-header-black.jpg)
+![Github-header-black.jpg](https://i.postimg.cc/63RPx9pP/Github-header-black.jpg)
 
 # 💻 Tech Stack:
 ![stack-black.jpg](https://i.postimg.cc/fThNLP4X/stack-black.jpg)
