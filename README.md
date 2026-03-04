@@ -3,40 +3,48 @@
 
 ![Github-header-black.jpg](https://i.postimg.cc/63RPx9pP/Github-header-black.jpg)
 
-# 💻 Tech Stack:
-
-## Frontend
+🎨 Frontend
 Astro
+
 React
+
 Next.js
+
 TypeScript
-Tailwind
 
-## Backend
+Tailwind CSS
+
+🧱 Backend
 Node.js
+
 Python
-FAST API
 
+FastAPI
 
-## Bases de datos y almacenamiento
+🗄️ Bases de datos & Storage
 PostgreSQL
+
 Supabase
 
-## Cloud & Infraestructura
+☁️ Cloud & Infraestructura
 Docker
+
 Vercel
 
-# CI/CD
+🔄 CI/CD
 GitHub Actions
 
-## Diseño y UX
+🧩 Diseño & UI
 Figma
-MUI / Shadcn UI
 
-## IA y herramientas emergentes
+MUI
+
+shadcn/ui
+
+🤖 IA & Herramientas emergentes
 OpenAI / Anthropic / Gemini APIs
-Copilot / Claude
 
+GitHub Copilot / Claude
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Magodelva25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
