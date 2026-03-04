@@ -3,48 +3,7 @@
 
 ![Github-header-black.jpg](https://i.postimg.cc/63RPx9pP/Github-header-black.jpg)
 
-🎨 Frontend
-Astro
 
-React
-
-Next.js
-
-TypeScript
-
-Tailwind CSS
-
-🧱 Backend
-Node.js
-
-Python
-
-FastAPI
-
-🗄️ Bases de datos & Storage
-PostgreSQL
-
-Supabase
-
-☁️ Cloud & Infraestructura
-Docker
-
-Vercel
-
-🔄 CI/CD
-GitHub Actions
-
-🧩 Diseño & UI
-Figma
-
-MUI
-
-shadcn/ui
-
-🤖 IA & Herramientas emergentes
-OpenAI / Anthropic / Gemini APIs
-
-GitHub Copilot / Claude
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Magodelva25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
